@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am passionate about continuous learning and self-improvement. I like to program everyday and to challenge myself continuously.<br><br>- 📚 I'm currently learning Microservices.<br>- ⚡ In my free time I like to train calisthenics, read books, hit the gym and watch content.</p>
+<p align="left">I am passionate about continuous learning and self-improvement. I like to program everyday and to challenge myself continuously.<br><br>- 📚 I'm currently learning RAG<br>- ⚡ In my free time I like to train calisthenics, read books, hit the gym and watch content.</p>
 
 ###
 
